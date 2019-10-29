@@ -1,0 +1,17 @@
+.nav1 {
+  word-spacing: 20px;
+  color: blue;
+  border: cadetblue;
+  box-sizing: border-box;
+  padding: 30px;
+  background-color: rgb(196, 205, 221);
+  align-content: center;
+  align-items: center;
+}
+#submit{
+  size: 20px;
+}
+.container{
+  padding: 30px;
+  
+}
